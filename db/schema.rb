@@ -19,5 +19,4 @@ ActiveRecord::Schema.define(version: 2022_09_01_150514) do
     t.integer "rating"
     t.string "season"
   end
-
 end
